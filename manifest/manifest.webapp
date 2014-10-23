@@ -1,0 +1,15 @@
+{
+  "name": "Pocket",
+  "developer": {
+    "name": "pancake",
+    "email": "pancake@nopcode.org",
+    "url": "http://twitter.com/trufae"
+  },
+  "launch_path": "/pocket/",
+  "description": "Formerly known as Read It Later",
+  "version": "1",
+  "icons": {
+    "256": "/pocket/icon256.png",
+    "128": "/pocket/icon128.png"
+  }
+}
